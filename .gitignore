@@ -1,0 +1,8 @@
+echo "*.blend1
+*.blend2
+*.tmp
+*.lock
+.DS_Store
+*.pyc
+ExportedAssets/FBX/*
+!ExportedAssets/FBX/.gitkeep" > .gitignore
